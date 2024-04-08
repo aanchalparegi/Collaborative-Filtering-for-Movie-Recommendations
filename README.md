@@ -61,7 +61,7 @@ Collaborative filtering stands as a beacon of innovation in the realm of recomme
 ## Medium Blog
 For more detailed information, please refer to the Medium blog post where this code was originally published.
 
-[Collaborative Filtering for Movie Recommendations with TensorFlow](https://medium.com/p/8f8c173d4f36/edit)
+[Collaborative Filtering for Movie Recommendations with TensorFlow](https://medium.com/@paregiaanchal/leveraging-collaborative-filtering-for-movie-recommendations-with-tensorflow-8f8c173d4f36)
 
 ```
 
