@@ -1,5 +1,3 @@
-
-```markdown
 # Collaborative Filtering for Movie Recommendations with TensorFlow
 
 ## Introduction
@@ -40,9 +38,7 @@ The code provided in this repository has the following dependencies:
 - NumPy
 
 You can install these dependencies using pip:
-```bash
-pip install tensorflow numpy
-```
+`pip install tensorflow numpy`
 
 ## How to Run
 To run the code and reproduce the results outlined in the blog post, follow these steps:
@@ -63,6 +59,3 @@ For more detailed information, please refer to the Medium blog post where this c
 
 [Collaborative Filtering for Movie Recommendations with TensorFlow](https://medium.com/@paregiaanchal/leveraging-collaborative-filtering-for-movie-recommendations-with-tensorflow-8f8c173d4f36)
 
-```
-
-This README.md file provides detailed instructions on dependencies, how to run the code, and concludes with a summary of the blog post content. It serves as a comprehensive guide for readers interested in exploring collaborative filtering for movie recommendations using TensorFlow.
